@@ -1,4 +1,3 @@
-_______________________________________________________________________________________________________________________
 					IPL TICKET BOOKING SYSTEM
 
 This project consists of two main parts:
@@ -22,8 +21,6 @@ To run the ticket booking system program follow the following steps:
 4. Run the 'Home.java' form in the src folder of the IPL project.
 5. Now you can follow the user interface options for navigating youself through the forms and book tickets.
 
-
-==========================================================================================================
 To setup the database.
     1.copy the ipl.sql file to a location of choice
     2.now with the help of MySql terminal client create database named "ipl".
@@ -31,6 +28,5 @@ To setup the database.
         "C:\Program Files\MySQL\MySQL Server 8.0\bin"
     4.In command promt write the command "mysql -u root -p ipl < (file path)\IPL_DATABASE.sql"
     5.In MySQL client write "use ipl"  
-==========================================================================================================
+
 To run the program execute Home.java file in src directory using netbeans.
-----------------------------------------------------------------------------------------------------------
